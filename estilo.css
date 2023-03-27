@@ -62,3 +62,9 @@ h1 {
     display: flex;
     justify-content: space-evenly;   
 }
+
+/* EXERCICIO B */
+.container-exercicioB {
+    display: flex;
+    flex-direction: column-reverse;
+}
